@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Font choser",
+  "name": "Choose your favourite font",
   "icons": [
     {
       "src": "favicon.ico",
