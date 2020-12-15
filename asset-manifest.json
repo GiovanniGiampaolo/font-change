@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/GiovanniGiampaolo/font-change/static/css/main.da166986.chunk.css",
-    "main.js": "/GiovanniGiampaolo/font-change/static/js/main.5241c8b2.chunk.js",
-    "main.js.map": "/GiovanniGiampaolo/font-change/static/js/main.5241c8b2.chunk.js.map",
-    "runtime-main.js": "/GiovanniGiampaolo/font-change/static/js/runtime-main.b109b242.js",
-    "runtime-main.js.map": "/GiovanniGiampaolo/font-change/static/js/runtime-main.b109b242.js.map",
-    "static/js/2.04d55ebd.chunk.js": "/GiovanniGiampaolo/font-change/static/js/2.04d55ebd.chunk.js",
-    "static/js/2.04d55ebd.chunk.js.map": "/GiovanniGiampaolo/font-change/static/js/2.04d55ebd.chunk.js.map",
-    "static/js/3.cd8e66a8.chunk.js": "/GiovanniGiampaolo/font-change/static/js/3.cd8e66a8.chunk.js",
-    "static/js/3.cd8e66a8.chunk.js.map": "/GiovanniGiampaolo/font-change/static/js/3.cd8e66a8.chunk.js.map",
-    "index.html": "/GiovanniGiampaolo/font-change/index.html",
-    "service-worker.js": "/GiovanniGiampaolo/font-change/service-worker.js",
-    "service-worker.js.map": "/GiovanniGiampaolo/font-change/service-worker.js.map",
-    "static/css/main.da166986.chunk.css.map": "/GiovanniGiampaolo/font-change/static/css/main.da166986.chunk.css.map",
-    "static/js/2.04d55ebd.chunk.js.LICENSE.txt": "/GiovanniGiampaolo/font-change/static/js/2.04d55ebd.chunk.js.LICENSE.txt"
+    "main.css": "/GiovanniGiampaolo/font-change/public/static/css/main.da166986.chunk.css",
+    "main.js": "/GiovanniGiampaolo/font-change/public/static/js/main.4b569f08.chunk.js",
+    "main.js.map": "/GiovanniGiampaolo/font-change/public/static/js/main.4b569f08.chunk.js.map",
+    "runtime-main.js": "/GiovanniGiampaolo/font-change/public/static/js/runtime-main.db1249f4.js",
+    "runtime-main.js.map": "/GiovanniGiampaolo/font-change/public/static/js/runtime-main.db1249f4.js.map",
+    "static/js/2.04d55ebd.chunk.js": "/GiovanniGiampaolo/font-change/public/static/js/2.04d55ebd.chunk.js",
+    "static/js/2.04d55ebd.chunk.js.map": "/GiovanniGiampaolo/font-change/public/static/js/2.04d55ebd.chunk.js.map",
+    "static/js/3.cd8e66a8.chunk.js": "/GiovanniGiampaolo/font-change/public/static/js/3.cd8e66a8.chunk.js",
+    "static/js/3.cd8e66a8.chunk.js.map": "/GiovanniGiampaolo/font-change/public/static/js/3.cd8e66a8.chunk.js.map",
+    "index.html": "/GiovanniGiampaolo/font-change/public/index.html",
+    "service-worker.js": "/GiovanniGiampaolo/font-change/public/service-worker.js",
+    "service-worker.js.map": "/GiovanniGiampaolo/font-change/public/service-worker.js.map",
+    "static/css/main.da166986.chunk.css.map": "/GiovanniGiampaolo/font-change/public/static/css/main.da166986.chunk.css.map",
+    "static/js/2.04d55ebd.chunk.js.LICENSE.txt": "/GiovanniGiampaolo/font-change/public/static/js/2.04d55ebd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b109b242.js",
+    "static/js/runtime-main.db1249f4.js",
     "static/js/2.04d55ebd.chunk.js",
     "static/css/main.da166986.chunk.css",
-    "static/js/main.5241c8b2.chunk.js"
+    "static/js/main.4b569f08.chunk.js"
   ]
 }
